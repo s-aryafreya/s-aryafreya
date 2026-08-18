@@ -20,9 +20,6 @@ artist 🎨
 ![](https://streak-stats.demolab.com/?user=s-aryafreya&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=s-aryafreya&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saturnianmoons) 
 
